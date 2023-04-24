@@ -1,0 +1,16 @@
+.cards__item {
+  text-align: center;
+  margin-left: 100px;
+  max-width: 240px;
+  width: 100%;
+  list-style: none;
+  margin-top: 60px;
+}
+
+.cards__item:first-child {
+  margin-left: 0;
+}
+
+.cards__item:nth-child(4) {
+  margin-left: 0;
+}
